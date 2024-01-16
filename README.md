@@ -7,9 +7,9 @@
 [![GitHub Views](https://komarev.com/ghpvc/?username=krishaapatel99)](https://github.com/antonkomarev/github-profile-views-counter)
 
 
-- 🔍 **In search of new endeavor in space of Software and Data Engineering with primary focus on Data😊**
+- 🔍 **In search of new endeavor in space of Software | Data | Analytics with primary focus on Data😊**
 - 💻 MS CS Student @ Syracuse University
-- 🤔 I’m looking for **Full Time positions starting May 2024 as a Software/Data Engineer.**
+- 🤔 I’m looking for **Full Time positions starting May 2024 as a Software/Data/Analytics Engineer.**
 - 👯 I’m looking to collaborate on **Data Engineering, Data Science, Machine Learning, Cloud Technology!**
 - 💬 Ask me about **How companies are using Data as Oil for Big Data solutions.**
 - 📫 How to reach me: **[Personal](mailto:krishaapatel99@gmail.com) | [Academic](mailto:kpatel51@syr.edu)**
