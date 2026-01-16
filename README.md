@@ -8,7 +8,7 @@
 
 
 - 🔍 **In search of new endeavor in space of Software | AI | Data | Analytics with primary focus on Data😊**
-- 💻 Data Engineer at CVS Health
+- 💻 **Data Engineer** at CVS Health
 - 🤔 I’m looking for **Data Nerds To Build Awesome Products.**
 - 👯 I’m looking to collaborate on **Data Engineering, AI Engineering, Data Science, Cloud Technology!**
 - 💬 Ask me about **How companies are using Cloud for their Infrastructure and Big Data solutions.**
